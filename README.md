@@ -66,10 +66,10 @@ Special thanks to **Future Interns** for the opportunity to work on this project
 ---
 
 ## 📁 File Structure
-
-┣ 📊 Future_intern_task1.pbix
-┣ 📄 superstore.xls
-┣ 📄 README.md
+<br>
+┣ 📊 Future_intern_task1.pbix<br>
+┣ 📄 superstore.xls<br>
+┣ 📄 README.md<br>
 
 ---
 
